@@ -1,0 +1,20 @@
+/* CSS declarations go here */
+.hidden_div{
+	display:none;
+}
+.website-add-form {
+	padding: 1rem 0;
+}
+.login-buttons {
+	line-height: 50px;
+}
+.search-container {
+	margin: 0.8rem 2rem 0 0;
+}
+.website-item {
+	padding: 1rem 0;
+	list-style-position: inside;
+}
+.website-list {
+	padding-left: 0;
+}
